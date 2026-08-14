@@ -37,7 +37,7 @@ jarvis/
 ### Install Dependencies
 
 ```bash
-pip install speechrecognition pyttsx3 gtts pygame openai
+pip install -r requirements.txt
 ```
 
 | Package            | Purpose                          |

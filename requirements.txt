@@ -3,3 +3,4 @@ pyttsx3
 gtts 
 pygame 
 openai
+tkinter
